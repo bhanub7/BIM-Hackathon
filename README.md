@@ -114,7 +114,3 @@ IFC File → Parser → Defect Detector → Case Retriever (TF-IDF)
 - Case library is synthetic (36 cases) — expandable with real project data
 - Single-file processing only
 - No 3D visualization in dashboard
-
-## 📄 License
-
-MIT — Built for hackathon demonstration purposes.
