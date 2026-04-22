@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-22T20:22:14.435461",
+  "model_type": "TF-IDF + RandomForest Surrogate",
+  "training_samples": 348,
+  "validation_samples": 43,
+  "metrics": {
+    "val_accuracy": 0.9767
+  },
+  "artifacts": [
+    "model/vectorizer.joblib",
+    "model/tfidf_index.joblib",
+    "model/classifier.joblib",
+    "model/train_cases.json"
+  ],
+  "features": 596
+}
